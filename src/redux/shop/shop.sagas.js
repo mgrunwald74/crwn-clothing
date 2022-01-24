@@ -20,7 +20,7 @@ export function* fetchCollectionsAsync() {
       convertCollectionsSnapshotToMap,
       snapshot
     );
-    // put == dispatch
+    // put == put it to the shop reducer
     yield put(fetchCollectionsSuccess(collectionsMap));
   } catch (error) {
     yield put(fetchCollectionsFailure(error.message));
