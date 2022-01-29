@@ -15,9 +15,9 @@
     defer-to-connect "^1.0.1"
 
 "@types/node@>=8.1.0":
-  version "17.0.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.10.tgz#616f16e9d3a2a3d618136b1be244315d95bd7cab"
-  integrity sha512-S/3xB4KzyFxYGCppyDt68yzBU9ysL88lSdIah4D6cptdcltc4NCPCAMc0+PCpg/lLIyC7IPvj2Z52OJWeIUkog==
+  version "17.0.13"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.13.tgz#5ed7ed7c662948335fcad6c412bb42d99ea754e3"
+  integrity sha512-Y86MAxASe25hNzlDbsviXl8jQHb0RDvKt4c40ZJQ1Don0AAL0STLZSs4N+6gLEO55pedy7r2cLwS+ZDxPm/2Bw==
 
 abbrev@1:
   version "1.1.1"
@@ -348,9 +348,9 @@ dot-prop@^5.2.0:
     is-obj "^2.0.0"
 
 dotenv@^14.2.0:
-  version "14.2.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-14.2.0.tgz#7e77fd5dd6cff5942c4496e1acf2d0f37a9e67aa"
-  integrity sha512-05POuPJyPpO6jqzTNweQFfAyMSD4qa4lvsMOWyTRTdpHKy6nnnN+IYWaXF+lHivhBH/ufDKlR4IWCAN3oPnHuw==
+  version "14.3.2"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-14.3.2.tgz#7c30b3a5f777c79a3429cb2db358eef6751e8369"
+  integrity sha512-vwEppIphpFdvaMCaHfCEv9IgwcxMljMw2TnAQBB4VWPvzXQLTb82jwmdOKzlEVUL3gNFT4l4TPKO+Bn+sqcrVQ==
 
 duplexer3@^0.1.4:
   version "0.1.4"
@@ -1121,9 +1121,9 @@ strip-json-comments@~2.0.1:
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
 stripe@^8.199.0:
-  version "8.199.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.199.0.tgz#dcd109f16ff0c33da638a0d154c966d0f20c73d1"
-  integrity sha512-Bc5Zfp6eOOCdde9x5NPrAczeGSKuNwemzjsfGJXWtpbUfQXgJujzTGgkhx2YuzamqakDYJkTgf9w7Ry2uY8QNA==
+  version "8.201.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.201.0.tgz#b77336dfe55326e3445942b74adfa90585ea87ee"
+  integrity sha512-pF0F1DdE9zt0U6Cb0XN+REpdFkUmaqp6C7OEVOCeUpTAafjjJqrdV/WmZd7Y5MwT8XvDAxB5/v3CAXwxAp0XNg==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
