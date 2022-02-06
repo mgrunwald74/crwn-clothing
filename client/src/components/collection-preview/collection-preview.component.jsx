@@ -1,4 +1,4 @@
-import { withRouter, useHistory, useParams, useLocation, useRouteMatch } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 
 import CollectionItem from '../collection-item/collection-item.component';
 
